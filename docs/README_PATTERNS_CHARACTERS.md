@@ -56,6 +56,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 
 - [`ESCAPED_CHARACTER`](#escaped_character)
 
+[⬅️ Back to main README](../README.md#-characters--37-terms)
+
 ---
 
 ### `DECIMAL_DIGIT`
@@ -1011,4 +1013,4 @@ ESCAPED_CHARACTER
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-characters--37-terms)

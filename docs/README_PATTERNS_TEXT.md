@@ -57,6 +57,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`TEXT_AFTER`](#text_after)
 - [`TEXT_BEFORE`](#text_before)
 
+[⬅️ Back to main README](../README.md#-text--38-terms)
+
 ---
 
 ### `EMPTY_TEXT`
@@ -1031,4 +1033,4 @@ pattern = TEXT_BEFORE("=")
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-text--38-terms)

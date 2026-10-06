@@ -57,6 +57,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`URI`](#uri)
 - [`URN`](#urn)
 
+[⬅️ Back to main README](../README.md#-web--38-terms)
+
 ---
 
 ### `URL_SCHEME`
@@ -983,4 +985,4 @@ URN
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-web--38-terms)

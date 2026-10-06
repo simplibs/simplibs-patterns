@@ -61,6 +61,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`LATITUDE`](#latitude)
 - [`LONGITUDE`](#longitude)
 
+[⬅️ Back to main README](../README.md#-numbers--42-terms)
+
 ---
 
 ### `INTEGER`
@@ -1112,4 +1114,4 @@ LONGITUDE
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-numbers--42-terms)

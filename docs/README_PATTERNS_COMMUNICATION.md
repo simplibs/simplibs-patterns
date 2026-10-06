@@ -35,6 +35,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`DISPLAY_NAME`](#display_name)
 - [`MESSAGE_ID`](#message_id)
 
+[⬅️ Back to main README](../README.md#-communication--16-terms)
+
 ---
 
 ### `EMAIL`
@@ -429,4 +431,4 @@ MESSAGE_ID
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-communication--16-terms)

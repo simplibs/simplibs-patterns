@@ -45,6 +45,9 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`BASE64_URL`](#base64_url)
 - [`ULID`](#ulid)
 - [`JWT`](#jwt)
+
+[⬅️ Back to main README](../README.md#-formats--27-terms)
+
 ---
 
 ### `UUID`
@@ -750,4 +753,4 @@ JWT
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-formats--27-terms)

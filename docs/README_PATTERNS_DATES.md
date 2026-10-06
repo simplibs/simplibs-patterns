@@ -38,6 +38,9 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`MONTH_ABBREVIATION`](#month_abbreviation)
 - [`WEEKDAY_NAME`](#weekday_name)
 - [`WEEKDAY_ABBREVIATION`](#weekday_abbreviation)
+
+[⬅️ Back to main README](../README.md#-dates--20-terms)
+
 ---
 
 ### `YEAR`
@@ -541,4 +544,4 @@ WEEKDAY_ABBREVIATION
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-dates--20-terms)

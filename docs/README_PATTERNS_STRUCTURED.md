@@ -34,6 +34,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`SPACE_SEPARATED_LIST`](#space_separated_list)
 - [`TAB_SEPARATED_LIST`](#tab_separated_list)
 
+[⬅️ Back to main README](../README.md#-structured--15-terms)
+
 ---
 
 ### `OPENING_DELIMITER`
@@ -415,4 +417,4 @@ TAB_SEPARATED_LIST
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-structured--15-terms)

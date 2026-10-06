@@ -79,6 +79,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`OPTIONAL`](#optional)
 - [`ZERO_OR_MORE`](#zero_or_more)
 
+[⬅️ Back to main README](../README.md#-propagated-regex-presets)
+
 ---
 
 ## ⚓ Anchors
@@ -1159,4 +1161,4 @@ pattern = ZERO_OR_MORE(DIGIT)
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-propagated-regex-presets)

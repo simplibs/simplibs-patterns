@@ -50,6 +50,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`TAG_NAME`](#tag_name)
 - [`ELEMENT_NAME`](#element_name)
 
+[⬅️ Back to main README](../README.md#-identifiers--31-terms)
+
 ---
 
 ### `IDENTIFIER_START_CHARACTER`
@@ -814,4 +816,4 @@ ELEMENT_NAME
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-identifiers--31-terms)

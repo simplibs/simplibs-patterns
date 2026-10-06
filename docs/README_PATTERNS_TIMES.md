@@ -45,6 +45,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`TIMESTAMP`](#timestamp)
 - [`UNIX_TIMESTAMP`](#unix_timestamp)
 
+[⬅️ Back to main README](../README.md#-times--26-terms)
+
 ---
 
 ### `HOUR`
@@ -669,4 +671,4 @@ UNIX_TIMESTAMP
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-times--26-terms)

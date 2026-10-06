@@ -31,6 +31,8 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 
 - [`Language`](#language)
 
+[⬅️ Back to main README](../README.md#-programming--9-terms)
+
 ---
 
 ### `OPERATOR`
@@ -255,4 +257,4 @@ COMMENT(Language.JAVASCRIPT)   # matches "// a comment"
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-programming--9-terms)

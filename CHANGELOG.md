@@ -13,8 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 #### Vocabulary
 
-* **324 ready-made regex expressions** available through `simplibs-patterns`:
-  * **283 domain-specific patterns** defined directly by this library, covering 12 domains:
+* **349 ready-made regex expressions** available through `simplibs-patterns`:
+  * **308 domain-specific patterns** defined directly by this library, covering 12 domains:
     * `characters` — digits, letters, whitespace, punctuation, symbols, signs and the generic escape sequence.
     * `text` — words, lines, quoted and bracketed text, character-class texts, `WHOLE_WORD`, `TEXT_BETWEEN`, `TEXT_UNTIL`, `TEXT_AFTER`, `TEXT_BEFORE`.
     * `numbers` — integers, decimals, signs, bases, scientific notation, fractions, percentages, fixed-digit numbers, bounded ranges (`0–255`, `0–65535`), months, days, hours, minutes, seconds, latitude and longitude.

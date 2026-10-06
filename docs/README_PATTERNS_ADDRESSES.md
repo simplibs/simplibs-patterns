@@ -27,7 +27,9 @@ All expressions are `simplibs.regex` objects: combine them with `+` (sequence) a
 - [`POSTAL_CODE`](#postal_code)
 - [`ZIP_CODE`](#zip_code)
 - [`STREET_ADDRESS`](#street_address)
-- 
+
+[⬅️ Back to main README](../README.md#-addresses--9-terms)
+
 ---
 
 ### `EMAIL_LOCAL_PART`
@@ -275,4 +277,4 @@ STREET_ADDRESS
 
 ---
 
-[⬅️ Back to main README](../README.md)
+[⬅️ Back to main README](../README.md#-addresses--9-terms)
